@@ -1,5 +1,5 @@
 # COOL_Online_Music_Platform
-COOL is a vibrant online music platform designed to offer an engaging and user-friendly experience for music enthusiasts. The website showcases a curated list of tracks, making it a great destination for discovering royalty-free music.
+COOL is a vibrant online music platform designed to offer an engaging and user-friendly experience for music enthusiasts. The website showcases a curated list of tracks, making it a great destination for discovering latest free music.
 
 Key Features:
 
